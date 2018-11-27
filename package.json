@@ -1,0 +1,15 @@
+{
+  "name": "china-area-data",
+  "version": "1.0.0",
+  "description": "中国地址信息（含港澳台）",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "三级联动", "地址信息", "港澳台"
+  ],
+  "git repository": "",
+  "author": "wangliang",
+  "license": "ISC"
+}
