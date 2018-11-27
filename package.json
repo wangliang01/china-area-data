@@ -1,5 +1,5 @@
 {
-  "name": "china-area-data",
+  "name": "element-china-area-address-data",
   "version": "1.0.0",
   "description": "中国地址信息（含港澳台）",
   "main": "main.js",
@@ -11,7 +11,7 @@
     "地址信息",
     "港澳台"
   ],
-  "git repository": "",
+  "git repository": "git@github.com:wangliang01/china-area-data.git",
   "author": "wangliang",
   "license": "ISC",
   "dependencies": {
