@@ -7,9 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "三级联动", "地址信息", "港澳台"
+    "三级联动",
+    "地址信息",
+    "港澳台"
   ],
   "git repository": "",
   "author": "wangliang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
